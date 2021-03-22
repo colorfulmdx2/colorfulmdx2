@@ -1,31 +1,22 @@
 ![Header](https://github.com/colorfulmdx2/colorfulmdx2/blob/main/assets/samurai.png)
 
-### About me
+### Немного о бо мне
 
 Пиривет, меня зовут Витя и я начинающий front-end рвзрвботчик. Меня очень мотивирует работа над интересными проектами, решение интересных и сложных задач. Свободное время предпочитаю проводить в компании друзей или за прочтением книг, а так же технической документации различных библиотек и фреймворков. Посещаю тренажерный зал 4 раза в неделю, это можно назвать хобби или увлечением, помогает освежить голову, когда она закипает от работы :) 
 
-### More info about me
+### Загляни на мое резюме
 
 [![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://rezume.me/rs/0Jyjfdq5)
 
-### Projects
+### Проекты
 
-Non NDA(for now)
-project:  [![calculator](https://img.shields.io/static/v1?label=LoadCalculator&message=In_Progress&color=orange)](https://omgpiu-load-calculator.web.app/)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=untypicalNetwork&message=Finished&color=green)](https://github.com/colorfulmdx2/filmix)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=Filmix&message=Finished&color=green)](https://github.com/colorfulmdx2/flight-prices)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=TableUsers&message=Finished&color=green)](https://github.com/colorfulmdx2/table-users)
 
-Chat-socket-oi:  ![chat](https://img.shields.io/static/v1?label=Chat&message=In_Progress&color=orange)
+Всю информацию о проекте и ссылки на хостинг вы можете найти в файле README.md 
 
-Test: [![calculator](https://img.shields.io/static/v1?label=SkySaga&message=Finish&color=green)](https://skysaga-86e91.web.app/login)
-
-#### Pet-Projects
-
-social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai)
-
-TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist)
-
-##### also, chek my REPO
-
-### Languages and Tools
+### Языки и инструменты
 
 ![React](https://img.shields.io/badge/-REACT-282c34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&logo=Redux)
@@ -38,14 +29,14 @@ TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=
 ![NodeJs](https://img.shields.io/badge/-NodeJs-282c34?style=for-the-badge&logo=Node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-282c34?style=for-the-badge&logo=firebase)
 
-### You can find me there
+### Найти меня можно тут
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/adubrovskii/)
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/omgpiu)
 
-#### or
+#### Email
 
-✉️ Mail me: dybrovskii.spb@mail.ru
+✉️ Mail me: colorfulmdx2@gmail.com
 
 
 
