@@ -14,7 +14,7 @@
 [![untypicalNetwork](https://img.shields.io/static/v1?label=Filmix&message=Finished&color=green)](https://github.com/colorfulmdx2/flight-prices)
 [![untypicalNetwork](https://img.shields.io/static/v1?label=TableUsers&message=Finished&color=green)](https://github.com/colorfulmdx2/table-users)
 
-Всю информацию о проекте и ссылки на хостинг вы можете найти в файле README.md 
+Всю информацию о проектах и ссылки на хостинг вы можете найти в файле README.md 
 
 ### Языки и инструменты
 
@@ -32,7 +32,7 @@
 ### Найти меня можно тут
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/adubrovskii/)
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/omgpiu)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/berezovskiyviktor)
 
 #### Email
 
