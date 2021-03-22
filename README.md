@@ -6,7 +6,7 @@
 
 ### Загляни на мое резюме
 
-[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://rezume.me/rs/0Jyjfdq5)
+[![CV](https://img.shields.io/static/v1?label=Резюме&message=CV&color=blueviolet)](https://rezume.me/rs/0Jyjfdq5)
 
 ### Проекты
 
