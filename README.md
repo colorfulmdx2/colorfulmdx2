@@ -12,7 +12,11 @@
 
 [![untypicalNetwork](https://img.shields.io/static/v1?label=untypicalNetwork&message=Finished&color=green)](https://github.com/colorfulmdx2/filmix)
 [![untypicalNetwork](https://img.shields.io/static/v1?label=Filmix&message=Finished&color=green)](https://github.com/colorfulmdx2/flight-prices)
-[![untypicalNetwork](https://img.shields.io/static/v1?label=TableUsers&message=Finished&color=green)](https://github.com/colorfulmdx2/table-users)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=Portfolio&message=Finished&color=green)](https://github.com/colorfulmdx2/my-portfolio)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=TableUsers&message=Finished&color=green)](https://github.com/colorfulmdx2/untypical-network)
+[![untypicalNetwork](https://img.shields.io/static/v1?label=SocialNetwork&message=Finished&color=green)](https://github.com/colorfulmdx2/type-script-social-network)
+
+[![untypicalNetwork](https://img.shields.io/static/v1?label=Просмотри_все_репозитории_по_ссылке&message=CLICK_HERE&color=green)](https://github.com/colorfulmdx2?tab=repositories)
 
 Всю информацию о проектах и ссылки на хостинг вы можете найти в файле README.md 
 
