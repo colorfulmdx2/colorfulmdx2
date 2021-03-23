@@ -36,7 +36,6 @@
 
 ### Найти меня можно тут
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/adubrovskii/)
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/berezovskiyviktor)
 
 #### Email
